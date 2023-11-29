@@ -3,7 +3,7 @@
 ## Full list of ID structures for different categories and sectors that currently exist in the OEFDB can be found in the table here:
 
 
-[Structure table](https://github.com/climatiq/Open-Emission-Factors-DB/blob/main/Sector-Category-ID_structure.csv)
+[Structure table](Sector-Category-ID_structure.csv)
 
 
 ## Glossary of terms, initialisms, and acronyms used in the OEFDB ID field
