@@ -1,4 +1,4 @@
-# student_task
+# Task
 
 Technical Exercise
 
