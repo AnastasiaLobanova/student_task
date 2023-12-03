@@ -6,7 +6,7 @@ Technical Exercise
 factors for different type of waste and waste management.
 
 2- Extract the emission factors from 4 first entries of this Table into a OEFDB-like structured
-normalised data format. Add data to OpenEmissionsFactorsDB.csv
+normalised data format. Add data to OpenEmissionFactorsDB_student_task.csv
 
 Use OpenEmissionFactorsDB_student_task.csv, DATA_GUIDANCE.md, Contributing guide, Sector-categoryid_
 structure.csv from this repo to guide your reformatting.
